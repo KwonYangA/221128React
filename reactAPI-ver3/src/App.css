@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  height: 700px;
+  border: 2px solid violet;
+}
+.sub_container {
+  height: 450px;
+  border: 2px solid black;
+}
+.header_container {
+  height: 200px;
+  border: 2px solid orangered;
+  margin: 3px 0px;
+}
+.main_container {
+  height: 300px;
+  border: 2px solid teal;
+  margin: 3px 0px;
+}
+.footer_container {
+  height: 150px;
+  border: 2px solid palegreen;
+  margin: 3px 0px;
+}
+div {
+  padding: 10px;
+}
